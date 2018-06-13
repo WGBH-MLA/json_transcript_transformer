@@ -1,7 +1,8 @@
-# Created June 2018 by Kevin Carter for WGBH Educational Foundation, Boston, MA, USA
-#
-#
 #!/bin/bash
+#Created June 2018 by Kevin Carter for WGBH Educational Foundation, Boston, MA, USA
+#
+#
+#
 #
 # uses jq and BASH standard utilities basename, cat, cut, dirname, echo, grep, head, printf, pwd, sed, tr 
 #
